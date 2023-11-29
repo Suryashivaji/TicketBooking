@@ -1,0 +1,24 @@
+*{
+  margin: 0px;
+  padding: 0px
+}
+.search{
+  margin-left: 600px;
+  margin-top: 90px;
+align-items: center;
+width: 20%;
+border-radius: 5px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 40px;
+  margin: 19px;
+  padding: 20px;
+
+}
+.card{
+  margin: 51px;
+  max-width: 500px;
+  max-height: 600px;
+}
